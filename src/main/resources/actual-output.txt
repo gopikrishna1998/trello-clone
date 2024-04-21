@@ -1,0 +1,24 @@
+No boards
+Created board: 81e6f2e4-ba1b-4fff-bf13-f5357c6026de
+{"id":"81e6f2e4-ba1b-4fff-bf13-f5357c6026de","name":"work@tech","privacy":"PUBLIC"}
+[{"id":"81e6f2e4-ba1b-4fff-bf13-f5357c6026de","name":"work@tech","privacy":"PUBLIC"}]
+{"id":"81e6f2e4-ba1b-4fff-bf13-f5357c6026de","name":"workat.tech","privacy":"PRIVATE"}
+Created board: 12423070-8dcb-43cc-b795-a47d602f03b5
+[{"id":"12423070-8dcb-43cc-b795-a47d602f03b5","name":"workat","privacy":"PUBLIC"},{"id":"81e6f2e4-ba1b-4fff-bf13-f5357c6026de","name":"workat.tech","privacy":"PRIVATE"}]
+{"id":"81e6f2e4-ba1b-4fff-bf13-f5357c6026de","name":"workat.tech","privacy":"PRIVATE","members":[{"id":"user1","name":"Gaurav Chandak","email":"gaurav@workat.tech"},{"id":"user3","name":"Sagar Jain","email":"sagar@workat.tech"}]}
+Board 12423070-8dcb-43cc-b795-a47d602f03b5 does not exist
+[{"id":"81e6f2e4-ba1b-4fff-bf13-f5357c6026de","name":"workat.tech","privacy":"PRIVATE","members":[{"id":"user1","name":"Gaurav Chandak","email":"gaurav@workat.tech"},{"id":"user3","name":"Sagar Jain","email":"sagar@workat.tech"}]}]
+Created list: dcf076a2-88db-4bae-806d-09555133cd91
+{"id":"dcf076a2-88db-4bae-806d-09555133cd91","name":"Mock Interviews"}
+{"id":"dcf076a2-88db-4bae-806d-09555133cd91","name":"Mock Interviews - Applied"}
+Created list: 314d81a5-d7a1-4c72-8c43-c613fce5e27b
+{"id":"81e6f2e4-ba1b-4fff-bf13-f5357c6026de","name":"workat.tech","privacy":"PRIVATE","members":[{"id":"user1","name":"Gaurav Chandak","email":"gaurav@workat.tech"},{"id":"user3","name":"Sagar Jain","email":"sagar@workat.tech"}],"lists":[{"id":"314d81a5-d7a1-4c72-8c43-c613fce5e27b","name":"Mock Interviews - Scheduled"},{"id":"dcf076a2-88db-4bae-806d-09555133cd91","name":"Mock Interviews - Applied"}]}
+Created card: fed60b44-d3db-4e6f-bbfc-0c233c161127
+Created card: 9c7ed7e8-52c3-4428-b18d-10d512a36328
+{"id":"dcf076a2-88db-4bae-806d-09555133cd91","name":"Mock Interviews - Applied","cards":[{"id":"fed60b44-d3db-4e6f-bbfc-0c233c161127","name":"abcd@gmail.com"},{"id":"9c7ed7e8-52c3-4428-b18d-10d512a36328","name":"abcda@gmail.com"}]}
+{"id":"dcf076a2-88db-4bae-806d-09555133cd91","name":"Mock Interviews - Applied","cards":[{"id":"fed60b44-d3db-4e6f-bbfc-0c233c161127","name":"abcd@gmail.com"},{"id":"9c7ed7e8-52c3-4428-b18d-10d512a36328","name":"abcde@gmail.com","description":"At 7PM"}]}
+{"id":"fed60b44-d3db-4e6f-bbfc-0c233c161127","name":"abcd@gmail.com","assignedTo":"gaurav@workat.tech"}
+{"id":"dcf076a2-88db-4bae-806d-09555133cd91","name":"Mock Interviews - Applied","cards":[{"id":"9c7ed7e8-52c3-4428-b18d-10d512a36328","name":"abcde@gmail.com","description":"At 7PM"}]}
+{"id":"314d81a5-d7a1-4c72-8c43-c613fce5e27b","name":"Mock Interviews - Scheduled","cards":[{"id":"fed60b44-d3db-4e6f-bbfc-0c233c161127","name":"abcd@gmail.com","assignedTo":"gaurav@workat.tech"}]}
+{"id":"fed60b44-d3db-4e6f-bbfc-0c233c161127","name":"abcd@gmail.com"}
+[{"id":"81e6f2e4-ba1b-4fff-bf13-f5357c6026de","name":"workat.tech","privacy":"PRIVATE","members":[{"id":"user1","name":"Gaurav Chandak","email":"gaurav@workat.tech"},{"id":"user3","name":"Sagar Jain","email":"sagar@workat.tech"}],"lists":[{"id":"314d81a5-d7a1-4c72-8c43-c613fce5e27b","name":"Mock Interviews - Scheduled"},{"id":"dcf076a2-88db-4bae-806d-09555133cd91","name":"Mock Interviews - Applied"}]}]
